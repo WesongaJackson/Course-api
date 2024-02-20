@@ -1,4 +1,4 @@
-package org.example.courseapi;
+package org.example.courseapi.Topic;
 
 import org.springframework.web.bind.annotation.Mapping;
 import org.springframework.web.bind.annotation.RequestMapping;

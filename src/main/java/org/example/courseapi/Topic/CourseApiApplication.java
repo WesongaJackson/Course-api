@@ -1,4 +1,4 @@
-package org.example.courseapi;
+package org.example.courseapi.Topic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
